@@ -46,11 +46,6 @@ Bom, agora na mesma tela do cmd, basta iniciar o serverless para o projeto ser e
 > func host start
 ```
 
-
-## 🚩 Tenho Dúvidas... O que fazer? 
-
-Caso tenham dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/Wanderson-A-Timoteo/Tarefas-em-background-utilizando-Node.js-e-Redis/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
-
 ## Autor:
 
 * [Gabriel Almeida](https://www.linkedin.com/in/gabrieldealmeidapires/)
